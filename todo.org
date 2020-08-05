@@ -1,0 +1,23 @@
+* JMM SISC todo
+** Misc
+   - [X] [[~/Dropbox/Masha_Sam_shared/JetMarchingMethod/sisc-jmm.pdf][sisc-jmm.pdf]]
+   - [ ] add figures
+   - [X] make abstract
+   - [X] 3 + 1 method bullet
+   - [X] Figure 1 caption
+   - [X] Figure 2 caption
+   - [X] make cells in Figure 2 3x3 instead of 4x4
+   - [X] add citations to intro section
+   - [ ] add references to other high-order eikonal solvers
+   - [ ] add convergence theorem
+   - [ ] add counterexample
+** Masha 6/26
+  - [ ] (4) Page 6, paragraph 2: Let $x_{\lambda}$ approximate the
+    crossing of the ray arriving at \hat{x} with conv(x_1,…,x_n), and
+    let L = L_{\lambda} = \|x-x_{\lambda}\|. Next, we approximate the
+    segment of ray $\psi$ contacting x_{\lambda} and \hat{x} with a
+    cubic curve \phi:[0,L]\rightarrow \Omega …
+  - [ ] (14) A figure similar to mine for 2-pt-update in JMMs.pdf
+    would be helpful.
+  - [ ] (19) Section 8. Cite Qi&Vlad and Fomel-Luo-Zhao for in test
+    problems 3 and 5 respectively.
